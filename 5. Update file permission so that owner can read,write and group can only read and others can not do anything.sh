@@ -1,0 +1,1 @@
+chmod 640 os-concetps/file1.txt

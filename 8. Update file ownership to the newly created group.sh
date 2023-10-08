@@ -1,0 +1,1 @@
+sudo chown :mygroup1 os-concepts/file1.txt
